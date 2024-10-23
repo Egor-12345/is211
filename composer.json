@@ -2,7 +2,7 @@
     "name": "burger/krig",
     "autoload": {
         "psr-4": {
-            "": "src/"
+            "Project\\": "src/"
         }
     },
     "authors": [
