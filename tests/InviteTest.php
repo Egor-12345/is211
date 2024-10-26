@@ -4,11 +4,11 @@ namespace Test;
 use PHPUnit\Framework\TestCase;
 use Routers\Router;
 
-class ProductTest extends TestCase {
+class InviteTest extends TestCase {
     public function test_router() {
         $router = new Router();
-        $html = $router->route( "http://localhost/products" );
-        $pos= mb_strpos($html, "Добавить в козину");
+        $html = $router->route( "http://localhost/" );
+        $pos= mb_strpos($html, "Приглашаем в наше онлайн-кафе1");
         $this->assertNotEquals(false, $pos);
     }
 }
