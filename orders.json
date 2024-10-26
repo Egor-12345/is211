@@ -175,104 +175,34 @@
         ]
     },
     {
-        "name": "342423",
-        "address": "234324",
-        "number": "234234324",
-        "created_at": "03-05-2024 18:24:52",
-        "all_sum": 399,
+        "name": "gtybc gtybc",
+        "address": "цуа",
+        "number": "ца",
+        "created_at": "27-04-2024 11:51:53",
+        "all_sum": 3,
         "products": [
             {
-                "name": "Шашлык-шейха",
+                "name": "Двигатель",
                 "quantity": 1,
-                "price": 399,
-                "sum": 399
+                "price": 3,
+                "sum": 3
             }
         ]
     },
     {
-        "name": "12312",
-        "address": "312312",
-        "number": "3123213",
-        "created_at": "03-05-2024 18:25:08",
+        "name": "yu",
+        "address": "yu",
+        "number": "yu",
+        "created_at": "27-04-2024 13:08:01",
         "all_sum": 0,
         "products": []
     },
     {
-        "name": "леха",
-        "address": "ленина",
-        "number": "12312452151",
-        "created_at": "04-05-2024 22:54:37",
-        "all_sum": 1148,
-        "products": [
-            {
-                "name": "Быстрый Борщ",
-                "quantity": 1,
-                "price": 299,
-                "sum": 299
-            },
-            {
-                "name": "Быстрый Бутерброд Миллионера",
-                "quantity": 1,
-                "price": 399,
-                "sum": 399
-            },
-            {
-                "name": "Быстрый салатик",
-                "quantity": 1,
-                "price": 450,
-                "sum": 450
-            }
-        ]
-    },
-    {
-        "name": "вфцвцфв",
-        "address": "цфвфцвцф",
-        "number": "вцфвфцв",
-        "created_at": "05-05-2024 19:07:50",
-        "all_sum": 698,
-        "products": [
-            {
-                "name": "Быстрый Борщ",
-                "quantity": 1,
-                "price": 299,
-                "sum": 299
-            },
-            {
-                "name": "Быстрый Бутерброд Миллионера",
-                "quantity": 1,
-                "price": 399,
-                "sum": 399
-            }
-        ]
-    },
-    {
-        "name": "wdadw",
-        "address": "dwadwadw",
-        "number": "231321321",
-        "created_at": "05-05-2024 19:08:17",
-        "all_sum": 299,
-        "products": [
-            {
-                "name": "Быстрый Борщ",
-                "quantity": 1,
-                "price": 299,
-                "sum": 299
-            }
-        ]
-    },
-    {
-        "name": "dwadwad",
-        "address": "wdawdwa",
-        "number": "dwadawd",
-        "created_at": "05-05-2024 19:09:02",
-        "all_sum": 299,
-        "products": [
-            {
-                "name": "Быстрый Борщ",
-                "quantity": 1,
-                "price": 299,
-                "sum": 299
-            }
-        ]
+        "name": "ывф",
+        "address": "фывф",
+        "number": "фывф",
+        "created_at": "27-04-2024 13:11:37",
+        "all_sum": 0,
+        "products": []
     }
 ]
